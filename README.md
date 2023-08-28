@@ -28,4 +28,4 @@ Running contract tests:
 ```
 npx hardhat test
 ```
-![test screenshot](https://github.com/danilpimankin/DAO_platform/blob/main/screenshot.png)
+![test screenshot](https://github.com/danilpimankin/DAO_platform/blob/main/screenshot1.png)
